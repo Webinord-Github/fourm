@@ -57,9 +57,6 @@
   -webkit-transition: 0.2s linear;
   transition: 0.2s linear;
 }
-.automatic__emails__container .automatic__emails__content .form__container .acc__container:hover {
-  background-color: lightgray;
-}
 .automatic__emails__container .automatic__emails__content .form__container .rotate {
   -webkit-transform: rotate(180deg);
           transform: rotate(180deg);
